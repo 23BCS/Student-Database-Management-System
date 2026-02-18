@@ -176,13 +176,9 @@ const deleteHandler = (deleteID, address) => {
 }
 ```
 
-9. Repeat these steps for every other file. In some cases, the `deleteHandler` function may also be found in files prefixed with "View". Check those files and repeat the same process.
 
-If the issue persists, feel free to contact me for further assistance.
 
-Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
-# Deployment
-* Render - server side
-* Netlify - client side
+
+
 
